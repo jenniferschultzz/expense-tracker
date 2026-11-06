@@ -3,3 +3,5 @@
 ![CI](https://github.com/jenniferschultzz/expense-tracker/actions/workflows/ci.yml/badge.svg)
 
 ![Swagger UI](docs/swagger.png)
+
+![Swagger UI - categories and schemas](docs/swagger-schemas.png)
